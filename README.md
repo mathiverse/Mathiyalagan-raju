@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mathiyalagan-raju
-- 👀 I’m interested in Learning new technologies and apply it in an efficient way
-- 🌱 I’m currently learning web3 technologies
-- 💞️ I’m looking to collaborate on blockchain and cloud related services
+- 👋 Hi, I’m @mathiyalagan
+- 👀 I’m a Web developer currently working with react and next JS, My hobbies include learning new technologies, writing articles and read a lot of books etc.
+- 🌱 I’m currently learning web3 technologies and backend services in AWS etc.
+- 💞️ I’m looking to collaborate on interesting projects that ignites my curiosity
 - 📫 reach me through gmail or linkedin https://www.linkedin.com/in/mathiyalaganraju/
 
 <!---
